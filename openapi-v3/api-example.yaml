@@ -6,7 +6,7 @@
 #
 openapi: 3.0.0
 info:
-  version: "1.0.2"
+  version: "1.0.3"
   # Il `title` e' il nome del tuo prodotto/servizio!
   # E' la prima cosa ad apparire in pagine web e cataloghi.
   # Dev'essere chiaro e conciso.
@@ -16,7 +16,7 @@ info:
     Una linea che descrive la nostra API per il catalogo.
   description: |
     #### Documentazione
-    Hello
+    Hello World
 
     Qui devi inserire la documentazione principale del servizio.
     Il testo dev'essere diviso in piu' parti, tutte scritte in Markdown.
