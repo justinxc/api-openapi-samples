@@ -6,7 +6,7 @@
 #
 openapi: 3.0.0
 info:
-  version: "1.0.0"
+  version: "1.0.1"
   # Il `title` e' il nome del tuo prodotto/servizio!
   # E' la prima cosa ad apparire in pagine web e cataloghi.
   # Dev'essere chiaro e conciso.
